@@ -1,5 +1,5 @@
 # CS305 - Software Security
-## Information on the projects done for the class
+Information on the projects done for the class
 
 ## Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 Artemis Financial is a financial consulting company that develops individualized financial plans for its clients, including savings, retirement, investments, and insurance. Artemis Financial wants to modernize its operations and requires the most current and effective software security as it is a crucial part of its custom software's success. They are seeking software security expertise from Global Rain about client data and financial information protection. Specifically, Artemis Financial wants to add a file verification step to its web app to ensure secure communications.
