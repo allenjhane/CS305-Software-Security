@@ -1,8 +1,9 @@
 # CS305 - Software Security
 
+### About the class
+In this class, we were taught software vulnerability and how to mitigate security flaws in a given program. We learned how to identify vulnerabilities, resolve these issues, and assess what risk the client is okay with within their product.
 
-
-## Below is the information on the projects done for the class
+## QA based on information from projects done in the class and how I can improve
 
 ### Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 Artemis Financial is a financial consulting company that develops individualized financial plans for its clients, including savings, retirement, investments, and insurance. Artemis Financial wants to modernize its operations and requires the most current and effective software security as it is a crucial part of its custom software's success. They are seeking software security expertise from Global Rain about client data and financial information protection. Specifically, Artemis Financial wants to add a file verification step to its web app to ensure secure communications.
